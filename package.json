@@ -1,0 +1,21 @@
+{
+  "name": "lambda-function-wordpress-article-posting",
+  "version": "1.0.0",
+  "description": "A lambda function that post articles daily from an external api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "cloud"
+  ],
+  "author": "medkhalilbk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bard-ai": "^2.0.3",
+    "dotenv": "^16.3.1"
+  }
+}
