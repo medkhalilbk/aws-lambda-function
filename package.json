@@ -4,7 +4,7 @@
   "description": "A lambda function that post articles daily from an external api ",
   "main": "index.js",
   "scripts": {
-    "test": "npm run dev"
+    "test": "nodemon ."
   },
   "keywords": [
     "aws",
